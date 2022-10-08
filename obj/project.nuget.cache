@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yj94KD71IXXBr7Vs6077qmJ2AliSlCrw9LpMt0elIeVzYZoIgskC80VieZz+fLWteJrtyyZPpmPq4sexnlPyDA==",
+  "success": true,
+  "projectFilePath": "/Users/chynnastarr/intro-apis/api-call-activity/api-call-activity.csproj",
+  "expectedPackageFiles": [
+    "/Users/chynnastarr/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

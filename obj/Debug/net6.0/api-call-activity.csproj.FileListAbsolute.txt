@@ -1,0 +1,17 @@
+/Users/chynnastarr/intro-apis/api-call-activity/bin/Debug/net6.0/api-call-activity
+/Users/chynnastarr/intro-apis/api-call-activity/bin/Debug/net6.0/api-call-activity.deps.json
+/Users/chynnastarr/intro-apis/api-call-activity/bin/Debug/net6.0/api-call-activity.runtimeconfig.json
+/Users/chynnastarr/intro-apis/api-call-activity/bin/Debug/net6.0/api-call-activity.dll
+/Users/chynnastarr/intro-apis/api-call-activity/bin/Debug/net6.0/api-call-activity.pdb
+/Users/chynnastarr/intro-apis/api-call-activity/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/chynnastarr/intro-apis/api-call-activity/obj/Debug/net6.0/api-call-activity.csproj.AssemblyReference.cache
+/Users/chynnastarr/intro-apis/api-call-activity/obj/Debug/net6.0/api-call-activity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chynnastarr/intro-apis/api-call-activity/obj/Debug/net6.0/api-call-activity.AssemblyInfoInputs.cache
+/Users/chynnastarr/intro-apis/api-call-activity/obj/Debug/net6.0/api-call-activity.AssemblyInfo.cs
+/Users/chynnastarr/intro-apis/api-call-activity/obj/Debug/net6.0/api-call-activity.csproj.CoreCompileInputs.cache
+/Users/chynnastarr/intro-apis/api-call-activity/obj/Debug/net6.0/api-call-activity.csproj.CopyComplete
+/Users/chynnastarr/intro-apis/api-call-activity/obj/Debug/net6.0/api-call-activity.dll
+/Users/chynnastarr/intro-apis/api-call-activity/obj/Debug/net6.0/refint/api-call-activity.dll
+/Users/chynnastarr/intro-apis/api-call-activity/obj/Debug/net6.0/api-call-activity.pdb
+/Users/chynnastarr/intro-apis/api-call-activity/obj/Debug/net6.0/api-call-activity.genruntimeconfig.cache
+/Users/chynnastarr/intro-apis/api-call-activity/obj/Debug/net6.0/ref/api-call-activity.dll
